@@ -1,0 +1,1 @@
+This repository demonstrates a common issue encountered when using catch-all routes ("/*") in React Router v6. The catch-all route, intended to handle any unmatched paths, unexpectedly overrides other defined routes.  The solution provided resolves this conflict by adjusting route order and potentially using more specific route matching.
